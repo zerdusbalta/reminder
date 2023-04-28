@@ -1,0 +1,24 @@
+.resim-cerceve {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.resim-cerceve img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.yazi-conteynir {
+    padding: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: middle;
+}
+.ad{
+    font-weight: bold;
+}
